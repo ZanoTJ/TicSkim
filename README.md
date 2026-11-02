@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Stock Price Predictor with Reddit Sentiment Analysis
 
 A machine learning project that predicts a stock's closing price using historical market data and sentiment extracted from Reddit posts. The project combines **natural language processing (NLP)** with a **bidirectional Long Short-Term Memory (BiLSTM)** neural network to explore whether community sentiment can provide additional signals for stock-price prediction.
@@ -220,4 +219,3 @@ This project is for **education and research**, not investment advice. Stock-pri
 =======
 # TicSkim
 A stock prediction RNN model with traditional way + sentiment analysis through HuggingFace
->>>>>>> 0c3658b85bb485729406dec411db22031f72872f
